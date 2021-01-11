@@ -1,0 +1,28 @@
+#inputField {
+    -fx-alignment: center;
+}
+
+.send-button {
+    -fx-border-radius: 30;
+    -fx-background-radius: 30 ;
+    -fx-font-weight: 900;
+    -fx-font-size: 22;
+}
+
+.main-color {
+    -fx-background-color: #006666;
+    -fx-text-fill: #FFFF99;
+}
+
+.text-area {
+    -fx-text-fill: #006699;
+}
+
+.list-view {
+-fx-font-size: 10pt;
+}
+
+.menu-bar {
+-fx-background-color: #99CCCC;
+}
+
